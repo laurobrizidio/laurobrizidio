@@ -1,10 +1,30 @@
 ## Hi there 👋
 
-I am Lauro Brizidio, student of Eletronic Engineering at UEA and Android Developer for 5 years. 
-I currently like to solve problems and create things, also like to be a maker. 
+# Lauro Brizidio
 
-**Interests**
-- Eletronics
+ Android Developer | Electronic Engineering Student
+
+**About Me**
+
+I’m Lauro, an Android Developer and Electronic Engineering student based in Manaus, Brazil.
+
+I’m passionate about understanding systems from hardware to software — building applications, designing circuits, and exploring how everything connects under the hood. I enjoy solving real-world problems through clean architecture, automation, and hands-on engineering.
+
+**Focus**
+
+- Android Development (mobile architecture & testing)
+- Embedded systems fundamentals
+- AOSP (Android Open Source Project)
+- Test automation
+- Linux & open-source tools
+- VR/AR
 - Maker Culture
 - Robotics
-- Android Development
+- Arduino/ESP32
+
+**What Drives Me**
+
+- Curiosity about how systems work end-to-end
+- Continuous learnin
+- Building technology with social impact
+- Turning ideas into practical solutions
