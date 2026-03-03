@@ -32,3 +32,4 @@ I’m passionate about understanding systems from hardware to software — build
 
 
 Linkedin: [https://www.linkedin.com/in/laurobrizidio/](https://www.linkedin.com/in/laurobrizidio/)
+Email: laurobrizidio@hotmail.com
