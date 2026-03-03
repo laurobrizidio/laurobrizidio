@@ -28,3 +28,9 @@ I’m passionate about understanding systems from hardware to software — build
 - Continuous learning
 - Building technology with social impact
 - Turning ideas into practical solutions
+
+
+
+Linkedin: [https://www.linkedin.com/in/laurobrizidio/](https://www.linkedin.com/in/laurobrizidio/)
+
+Instagram: [https://www.instagram.com/laurobrizidio](https://www.instagram.com/laurobrizidio)
