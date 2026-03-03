@@ -25,6 +25,6 @@ I’m passionate about understanding systems from hardware to software — build
 **What Drives Me**
 
 - Curiosity about how systems work end-to-end
-- Continuous learnin
+- Continuous learning
 - Building technology with social impact
 - Turning ideas into practical solutions
